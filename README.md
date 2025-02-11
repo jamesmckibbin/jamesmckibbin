@@ -1,4 +1,4 @@
-# 🥯 Do the bagels below look delicious to you? 🥯
+# 🥯 Do these bagels look delicious to you? 🥯
 
 ![alt text](https://github.com/jamesmckibbin/jamesmckibbin/blob/main/bagels.jpg?raw=true)
 
