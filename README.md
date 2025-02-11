@@ -4,10 +4,8 @@
 
 Aside from knowing how to make bagels, I also have a career in programming!
 
-Hi, I'm James (they/them), and I make games!
+Hi, I'm James (they/them), and I make games! I've been a student at Champlain College for the past four years studying Game Programming, and I am hoping to start a career in the industry soon after completing my degree.
 
-<p align="center">
 ## Currently working on: 
   - DirectX 12 Renderer
   - Metis Map System
-</p>
