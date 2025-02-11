@@ -8,6 +8,6 @@ Hi, I'm James (they/them), and I make games!
 
 <p align="center">
 ## Currently working on: 
-</p>
   - DirectX 12 Renderer
   - Metis Map System
+</p>
